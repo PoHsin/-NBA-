@@ -1,6 +1,6 @@
 # 2018-2019 NBA最有價值球員預測分析(非總決賽)
-> ## 介紹
-實驗時間2019年初，2019年MVP尚未選出。
+## 介紹
+>實驗時間2019年初，2019年MVP尚未選出。
 
 > ## Dataset
 >>Kaggle：https://www.kaggle.com/danchyy/nba-mvp-votings-through-history
